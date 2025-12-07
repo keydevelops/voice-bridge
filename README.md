@@ -1,4 +1,4 @@
-# Teamspeak3 <-> Discord Voice Bridge
+# Teamspeak3 <-> Discord Voice Bridgee
 
 Requires your own discord bot token.
 
